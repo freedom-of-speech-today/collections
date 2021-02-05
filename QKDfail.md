@@ -208,7 +208,7 @@ QKD密钥的存储需要将密钥明文多次暴露在计算机中，我们只�
 
 经过了几乎逐字逐句的分析，我们对协会报告的内容已经有了比较充分的认识。总体来说，协会报告对NSA问题的翻译遗漏是比较多的，并且都是关键性的遗漏，这对于进一步的理解和讨论有很大的影响，为此，我们觉得协会报告远没有达到与NSA的专业性等量齐观的水准，QKD专家们的反驳意见在没有进一步的权威分析报告发布之前，NSA报告的权威性仍然不可动摇。
 
-参考资料：
+# 参考资料：
 
 [1] [NSA《Quantum Key Distribution (QKD) and Quantum Cryptography(QC)》](https://www.nsa.gov/what-we-do/cybersecurity/quantum-key-distribution-qkd-and-quantum-cryptography-qc/)
 
